@@ -1,17 +1,15 @@
 ---
-
 ## Government Leadership
 
-Prof K VijayRaghavan  
-Amitabh Kant  
-Ajay Sawhney  
-Dr. Neeta Verma  
-Gopala Krishnan S  
-R S Mani  
-Abhishek Singh  
+Prof K VijayRaghavan
+Amitabh Kant
+Ajay Sawhney
+Dr. Neeta Verma
+Gopala Krishnan S
+R S Mani
+Abhishek Singh
 Dr. Seema Khanna
 xyz
-
 ---
 
 ## Industry and Academia Leadership
