@@ -24,8 +24,7 @@ Vikalp Sahni
 Rahul Goyal  
 Rahul Matthan  
 Arghya Sengupta
-
----
+Devi
 
 ## Contributors (Government)
 
